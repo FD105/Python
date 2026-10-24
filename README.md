@@ -1,7 +1,5 @@
 # miniPython
 
----
-
 Dieses Repo beinhaltet stand jetzt folgende kleine Projekte:
 
 - **einen Passwortgenerator,**
